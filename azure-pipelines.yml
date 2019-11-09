@@ -17,7 +17,7 @@
 # https://docs.microsoft.com/azure/devops/pipelines/languages/java
 
 trigger:
-- azure-pipelines_game-of-life
+- master
 
 pool:
   vmImage: 'ubuntu-latest'
